@@ -1,0 +1,3378 @@
+{
+    "keyboard_acoustic_004-058-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 58,
+        "note": 238825,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-058-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-102-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "pitch": 102,
+        "note": 229296,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "percussive",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-102-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-043-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 43,
+        "note": 301254,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-043-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-029-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 29,
+        "note": 99748,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-029-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-083-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 83,
+        "note": 223822,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-083-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-107-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "pitch": 107,
+        "note": 217044,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "percussive",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-107-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-086-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 86,
+        "note": 34125,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-086-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-022-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 22,
+        "note": 182553,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-022-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-093-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 93,
+        "note": 263694,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-093-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-025-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 25,
+        "note": 229923,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-025-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-059-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 59,
+        "note": 261260,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-059-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-069-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 69,
+        "note": 171410,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-069-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-069-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 69,
+        "note": 270428,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-069-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-029-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 29,
+        "note": 302549,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-029-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-072-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 72,
+        "note": 152222,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-072-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-091-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "pitch": 91,
+        "note": 289669,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "percussive",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-091-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-058-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 58,
+        "note": 292340,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-058-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-048-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 48,
+        "note": 301047,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-048-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-056-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 56,
+        "note": 253021,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-056-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-066-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 66,
+        "note": 138955,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-066-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-051-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 51,
+        "note": 215086,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-051-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-096-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 96,
+        "note": 231244,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-096-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-090-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 90,
+        "note": 149685,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-090-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-102-025": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 102,
+        "note": 243651,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-102-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-066-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 66,
+        "note": 176810,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-066-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-061-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 61,
+        "note": 241943,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-061-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-027-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 27,
+        "note": 19918,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-027-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-036-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 36,
+        "note": 180946,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-036-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-069-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 69,
+        "note": 226374,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-069-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-081-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 81,
+        "note": 166649,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-081-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-064-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 64,
+        "note": 234617,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-064-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-090-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 90,
+        "note": 249559,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-090-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-038-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 38,
+        "note": 23817,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-038-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-039-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 39,
+        "note": 157677,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-039-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-070-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 70,
+        "note": 261953,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-070-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-052-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 52,
+        "note": 31168,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-052-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-103-025": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 103,
+        "note": 303079,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-103-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-033-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 33,
+        "note": 294057,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-033-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-078-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 78,
+        "note": 243618,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-078-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-053-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 53,
+        "note": 64706,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-053-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-079-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 79,
+        "note": 214138,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-079-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-106-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 106,
+        "note": 290789,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-106-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-089-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 89,
+        "note": 194807,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-089-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-071-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 71,
+        "note": 286341,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-071-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-033-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 33,
+        "note": 66837,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-033-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-039-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 39,
+        "note": 298541,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-039-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-028-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 28,
+        "note": 4498,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-028-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-026-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 26,
+        "note": 227186,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-026-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-063-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 63,
+        "note": 257678,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-063-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-090-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 90,
+        "note": 103776,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-090-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-073-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 73,
+        "note": 135519,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-073-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-075-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 75,
+        "note": 62134,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-075-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-079-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 79,
+        "note": 268912,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-079-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-033-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 33,
+        "note": 71125,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-033-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-082-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 82,
+        "note": 287914,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-082-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-047-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 47,
+        "note": 97429,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-047-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-028-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 28,
+        "note": 294929,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-028-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-054-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 54,
+        "note": 211710,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-054-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-051-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 51,
+        "note": 283897,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-051-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-079-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 79,
+        "note": 244057,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-079-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-074-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 74,
+        "note": 189855,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-074-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-100-050": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 100,
+        "note": 237129,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-100-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-043-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 43,
+        "note": 276389,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-043-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-087-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 87,
+        "note": 233057,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-087-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-050-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 50,
+        "note": 196555,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-050-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-087-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 87,
+        "note": 9523,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-087-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-042-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 42,
+        "note": 304430,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-042-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-034-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 34,
+        "note": 226449,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-034-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-071-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 71,
+        "note": 141590,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-071-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-029-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 29,
+        "note": 119488,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-029-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-063-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 63,
+        "note": 227998,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-063-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-046-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 46,
+        "note": 257619,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-046-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-068-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 68,
+        "note": 302204,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-068-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-035-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 35,
+        "note": 7979,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-035-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-050-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 50,
+        "note": 175105,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-050-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-054-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 54,
+        "note": 76137,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-054-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-081-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 81,
+        "note": 162113,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-081-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-101-025": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 101,
+        "note": 206821,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-101-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-045-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 45,
+        "note": 237330,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-045-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-103-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ],
+        "pitch": 103,
+        "note": 239865,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "percussive",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-103-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-075-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 75,
+        "note": 113396,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-075-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-037-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 37,
+        "note": 258893,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-037-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-090-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 90,
+        "note": 259547,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-090-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-062-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 62,
+        "note": 237227,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-062-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-083-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 83,
+        "note": 303401,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-083-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-092-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 92,
+        "note": 291658,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-092-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-028-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 28,
+        "note": 295047,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-028-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-082-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 82,
+        "note": 48198,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-082-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-084-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 84,
+        "note": 302232,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-084-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-048-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 48,
+        "note": 167530,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-048-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-065-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 65,
+        "note": 122218,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-065-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-068-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 68,
+        "note": 230918,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-068-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-076-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 76,
+        "note": 261999,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-076-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-063-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 63,
+        "note": 509,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-063-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-072-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 72,
+        "note": 252449,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-072-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-057-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 57,
+        "note": 282534,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-057-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-077-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 77,
+        "note": 196236,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-077-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-046-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 46,
+        "note": 293883,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-046-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-039-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 39,
+        "note": 212703,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-039-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-041-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 41,
+        "note": 234926,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-041-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-045-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 45,
+        "note": 226305,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-045-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-077-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 77,
+        "note": 248851,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-077-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-031-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 31,
+        "note": 286432,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-031-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-045-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 45,
+        "note": 58213,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-045-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-082-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 82,
+        "note": 275292,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-082-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-081-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 81,
+        "note": 183290,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-081-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-031-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 31,
+        "note": 294109,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-031-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-061-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 61,
+        "note": 204779,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-061-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-035-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 35,
+        "note": 16460,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-035-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-074-100": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 74,
+        "note": 194048,
+        "instrument_source_str": "acoustic",
+        "velocity": 100,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-074-100",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-085-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 85,
+        "note": 282190,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-085-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-031-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 31,
+        "note": 276974,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-031-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-026-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 26,
+        "note": 237394,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-026-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-075-050": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 75,
+        "note": 19612,
+        "instrument_source_str": "acoustic",
+        "velocity": 50,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-075-050",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-029-127": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 29,
+        "note": 218923,
+        "instrument_source_str": "acoustic",
+        "velocity": 127,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-029-127",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-037-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 37,
+        "note": 136213,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-037-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-065-025": {
+        "qualities": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 65,
+        "note": 274105,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "dark",
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-065-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-097-075": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 97,
+        "note": 178792,
+        "instrument_source_str": "acoustic",
+        "velocity": 75,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-097-075",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    },
+    "keyboard_acoustic_004-105-025": {
+        "qualities": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0
+        ],
+        "pitch": 105,
+        "note": 218326,
+        "instrument_source_str": "acoustic",
+        "velocity": 25,
+        "instrument_str": "keyboard_acoustic_004",
+        "instrument": 327,
+        "sample_rate": 16000,
+        "qualities_str": [
+            "reverb"
+        ],
+        "instrument_source": 0,
+        "note_str": "keyboard_acoustic_004-105-025",
+        "instrument_family": 4,
+        "instrument_family_str": "keyboard"
+    }
+}
